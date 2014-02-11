@@ -1,0 +1,15 @@
+EVALUATION OF TOPOLOGICAL MEASURES :
+You have rightly placed the levee at a low elevation area 
+SCORE: 10
+
+EVALUATION OF ECONOMIC SECURITY :
+You have rightly placed the levee at a high economy area, this levee would be very efficient for economic security. Since the economy now can be protected from the destruction caused by floods
+SCORE: 10
+
+EVALUATION OF POPULATION SECURITY :
+You have rightly placed the levee at a high population area, this levee would very efficient. Since more number of lives can be protected the levee now
+SCORE: 10
+
+Note: You could place this levee more up the river
+
+TOTAL SCORE: 30
